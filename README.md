@@ -1,1 +1,2 @@
-# Sensores-LCD-20x4
+# Sensores-LCD-20x
+*sbsj
